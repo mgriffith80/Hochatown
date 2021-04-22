@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: 1px dashed red;
+}
+
+.top_header{
+    height: 100px;
+    width: auto 0;
+    
+}
+
+.container{
+    background-image: image("images/saloon_hochatown.jpeg");
+}
